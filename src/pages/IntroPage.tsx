@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Container from '../components/Container'
 import { IoSearch } from "react-icons/io5";
 import { HiOutlineMenuAlt4 } from "react-icons/hi";
